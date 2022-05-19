@@ -1,0 +1,223 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  width: 100%;
+  color: #080731;
+}
+
+.navbar-bc {
+  padding-top: 20px;
+}
+
+.navbar-bc .navbar-nav li {
+  padding-left: 20px;
+}
+
+.navbar-bc .navbar-nav .btn-lgn {
+  margin-left: 20px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+.navbar-bc .navbar-nav .active {
+  color: #15136C !important;
+  font-weight: 700 !important;
+}
+
+.navbar-bc .navbar-nav .nav-link {
+  color: #080731;
+  font-weight: 500;
+}
+
+.blue {
+  color: #0047FF !important;
+}
+
+.sales {
+  margin-top: 50px;
+}
+
+.sales p {
+  font-weight: 500;
+}
+
+.sales .sales-cta {
+  margin-top: 50px;
+  padding-left: 5%;
+}
+
+.sales .sales-cta p {
+  color: #080731;
+}
+
+.banner-card {
+  margin-left: -100px;
+  width: 750px;
+  height: 450px;
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+.btn-cta {
+  padding-left: 35px;
+  padding-right: 35px;
+  border-radius: 24px;
+}
+
+.btn-scn {
+  padding-left: 35px;
+  padding-right: 35px;
+  border: none;
+  border-radius: 24px;
+}
+
+.center {
+  margin-top: 44px;
+}
+
+.center img {
+  display: block;
+}
+
+.text {
+  text-align: center;
+}
+
+.text h4 {
+  margin-top: 60px;
+  font-weight: 700;
+}
+
+.text2 h4 {
+  margin-top: 60px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.text2 .benefit .upper {
+  margin-top: 40px;
+}
+
+.text2 .benefit .upper span p {
+  margin-top: 35px;
+  margin-left: 50px;
+}
+
+.text2 .benefit .upper span p img {
+  width: 16px;
+}
+
+.testimoni .member {
+  margin-top: 40px;
+}
+
+.testimoni .member h6 {
+  color: #0047FF;
+}
+
+.testimoni .member .testimoni-area {
+  background-color: #F6F6F6;
+  border-radius: 20px;
+}
+
+.testimoni .member .testimoni-area .testimoni-body {
+  margin: 20px;
+}
+
+.testimoni .member .testimoni-area .testimoni-body .testimoni-img {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+.testimoni .member .testimoni-area .testimoni-body .testimoni-img img {
+  width: 52px;
+  margin-bottom: 24px;
+}
+
+.testimoni .member .testimoni-area .testimoni-body .testimoni-info {
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.testimoni .member .testimoni-area .testimoni-body .testimoni-info .testimoni-name {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 12px;
+  letter-spacing: 1px;
+  margin-bottom: 4px;
+}
+
+.testimoni .member .testimoni-area .testimoni-body .testimoni-info .testimoni-job {
+  color: #BDBDBD;
+  font-weight: 300;
+  font-size: 12px;
+}
+
+.testimoni .member .testimoni-area .testimoni-body .testi-page .testi {
+  margin-bottom: 60px;
+}
+
+.testimoni .member .testimoni-area .testimoni-body .testi-star {
+  display: inline-block;
+}
+
+.testimoni .member .testimoni-area .testimoni-body .testi-star .star img {
+  text-align: right;
+  padding-bottom: 20px;
+  position: static;
+}
+
+.card-invt {
+  text-align: center;
+  margin-top: 100px;
+}
+
+.card-invt .invtation p {
+  font-weight: 500;
+  color: #BDBDBD;
+}
+
+.card-invt .invtation .link {
+  margin-top: 24px;
+  margin-bottom: 40px;
+}
+
+.card-invt .invtation .link a {
+  border-radius: 12px;
+}
+
+.footie {
+  text-align: left;
+  margin-top: 160px;
+  margin-bottom: 20px;
+}
+
+.footie .bootie {
+  margin-bottom: 0;
+}
+
+.footie .link-footer a {
+  text-decoration: inherit;
+  color: #15136C;
+}
+
+.footie .link-footer .link:hover a {
+  color: #BDBDBD;
+  font-weight: 500;
+}
+
+.footie .powered {
+  clear: both;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.footie .powered p {
+  display: inline-block;
+}
+
+.footie .powered h6 {
+  display: inline-block;
+  color: #0047FF;
+}
+/*# sourceMappingURL=main.css.map */

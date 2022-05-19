@@ -1,0 +1,23 @@
+body {
+  background-image: url(/bg404/pngegg.png);
+  margin: 0 auto;
+  color: #080731;
+}
+
+.container .mid {
+  text-align: center;
+  margin-top: 15%;
+}
+
+.container .mid a {
+  text-decoration: inherit;
+  padding: 12px 16px;
+  color: #F6F6F6;
+  background-color: #0047FF;
+  border-radius: 8px;
+}
+
+.container .mid h1 {
+  margin-bottom: 32px;
+}
+/*# sourceMappingURL=page404.css.map */
